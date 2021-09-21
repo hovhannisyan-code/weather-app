@@ -1,0 +1,91 @@
+{
+    "cities": [
+        {
+            "id": 1,
+            "name": "New York"
+        },
+        {
+            "id": 2,
+            "name": "Amsterdam"
+        },
+        {
+            "id": 3,
+            "name": "Erevan"
+        },
+        {
+            "id": 4,
+            "name": "Moscow"
+        } ,
+        {
+            "id": 5,
+            "name": "Delhi"
+        }, 
+        {
+            "id": 6,
+            "name": "Beijing"
+        }, 
+        {
+            "id": 7,
+            "name": "Osaka"
+        }, 
+        {
+            "id": 8,
+            "name": "Paris"
+        }, 
+        {
+            "id": 9,
+            "name": "London"
+        }, 
+        {
+            "id": 10,
+            "name": "Seoul"
+        }, 
+        {
+            "id": 11,
+            "name": "Madrid"
+        }, 
+        {
+            "id": 12,
+            "name": "Singapore"
+        }, 
+        {
+            "id": 13,
+            "name": "Barcelona"
+        },
+        {
+            "id": 14,
+            "name": "Alexandria"
+        }, 
+        {
+            "id": 15,
+            "name": "Melbourne"
+        }, 
+        {
+            "id": 16,
+            "name": "Sydney"
+        }, 
+        {
+            "id": 17,
+            "name": "Brasilia"
+        }, 
+        {
+            "id": 18,
+            "name": "Rome"
+        }, 
+        {
+            "id": 19,
+            "name": "Montreal"
+        }, 
+        {
+            "id": 20,
+            "name": "Los Angeles"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "User Dummy",
+            "favoriteCities": []
+        }
+    ]
+}
